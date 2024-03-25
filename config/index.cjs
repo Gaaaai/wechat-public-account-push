@@ -19,15 +19,9 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '改改',
-      id: 'o4hSe6NkLjh8q2ycwImp7eE2KoCQ',
-
       name: '云总',
       id: 'o4hSe6OcteMxl9XukcVEOtapHocc',
-      
-      name: '刘总',
-      id: 'o4hSe6Ha8pqXZr_QIj8IFDw1BStU',
-
+   
       
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'JFgboT4jZ59G9NrnRalBeOVLM7Wn5UorB6djM1vKr3Y',
